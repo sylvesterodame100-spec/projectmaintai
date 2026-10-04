@@ -26,6 +26,7 @@ export function Hero() {
           <h1 className="text-balance text-4xl font-semibold tracking-tight md:text-5xl lg:text-6xl">
             Fix machines <span className="text-primary">before</span> they fail.
           </h1>
+          <p className="-mt-2 font-mono text-sm font-medium text-primary">Now on GitHub</p>
           <p className="max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground">
             Prognos AI unifies preventive and predictive maintenance. Machine learning models read
             vibration, temperature, and runtime data to forecast failures, then automatically optimize
